@@ -26,3 +26,18 @@
 
 this.name = "myCoolWindow";
 console.log(this.name);
+
+/* ----------------------------------------- */
+
+// hello()
+
+// const hello = function () {
+//     let username = "pritam"
+//     console.log(this.username);
+// }
+
+// const hello =  () => {
+//     let username = "pritam"
+//     console.log(this);
+// }
+
