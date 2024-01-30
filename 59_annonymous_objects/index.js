@@ -31,7 +31,7 @@ let cards = [
   new Card("2", "Diamond"),
 ];
 
-console.log(cards[7].value + cards[7].suite);
+console.log(cards[7].value + cards[7].suit);
 console.log(cards[0].value + cards[0].suit);
 
 cards.forEach((card) => console.log(`${card.value} $Pcard.suit`));
